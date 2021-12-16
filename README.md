@@ -1,13 +1,10 @@
 # Olá eu sou Kresley Lucas!✍️
 [![Whats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](google.com) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](youtube.com)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klucas27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klucas27&show_icons=true&theme=onedark)
 
-#
 ## Minhas linguagens do dia a dia:
 
 <div style="display: inline_block">
@@ -17,7 +14,6 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
-#
 ## Meus sistemas operacionais:
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
