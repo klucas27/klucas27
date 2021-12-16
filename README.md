@@ -1,5 +1,5 @@
 # Olá eu sou Kresley Lucas!✍️
-[![Whats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](www.google.com) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](www.youtube.com)
+[![Whats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512996375416;) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](www.youtube.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klucas27&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=klucas27&layout=compact)
 
