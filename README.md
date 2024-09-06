@@ -1,4 +1,4 @@
-# Olá eu sou Kresley Lucas!✍️
+My name is Kresley Lucas!✍️
 [![Whats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5512996375416&text&app_absent=0) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](www.youtube.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klucas27&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=klucas27&layout=compact)
